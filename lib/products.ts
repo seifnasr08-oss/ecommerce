@@ -7,7 +7,7 @@ export const products: Product[] = [
     id: "1",
     slug: "bomba-lamp",
     name: "Bomba lamp",
-    category: "lamps",
+    category: "electronics",
     price: 2450,
     currency: "EGP",
     description:
@@ -20,7 +20,7 @@ export const products: Product[] = [
     id: "2",
     slug: "cactus-lamp",
     name: "Cactus Lamp",
-    category: "lamps",
+    category: "electronics",
     price: 1899,
     currency: "EGP",
     description:
@@ -33,7 +33,7 @@ export const products: Product[] = [
     id: "3",
     slug: "amwag-lamp",
     name: "Amwag Lamp",
-    category: "lamps",
+    category: "electronics",
     price: 420,
     currency: "EGP",
     description:
@@ -46,7 +46,7 @@ export const products: Product[] = [
     id: "4",
     slug: "modern-lamp",
     name: "Modern Lamp",
-    category: "lamps",
+    category: "electronics",
     price: 2200,
     currency: "EGP",
     description:
