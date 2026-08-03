@@ -17,7 +17,7 @@ export default function HomePage() {
             Goods built to outlast the trend cycle.
           </h1>
           <p className="font-body text-slate mt-6 max-w-md">
-            A small, considered catalog of clothing, electronics, and everyday
+            A small, considered catalog of electronics, and everyday
             accessories — chosen for how long they last, not how fast they sell.
           </p>
           <Link

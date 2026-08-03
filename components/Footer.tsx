@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="border-t border-line bg-mist mt-24">
       <div className="max-w-content mx-auto px-6 py-12 grid grid-cols-1 sm:grid-cols-3 gap-8">
         <div>
-          <p className="font-display text-xl text-ink mb-2">Field &amp; Form</p>
+          <p className="font-display text-xl text-ink mb-2">Glowra Lamps</p>
           <p className="font-body text-sm text-slate max-w-xs">
             Considered goods for daily use. Built to last, not to trend.
           </p>
@@ -31,7 +31,7 @@ export function Footer() {
       </div>
 
       <div className="max-w-content mx-auto px-6 py-6 border-t border-line font-body text-xs text-slate">
-        © {new Date().getFullYear()} Field &amp; Form. All rights reserved.
+        © {new Date().getFullYear()} Glowra Lamps; Form. All rights reserved.
       </div>
     </footer>
   );

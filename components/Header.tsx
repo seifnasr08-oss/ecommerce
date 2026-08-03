@@ -10,7 +10,7 @@ export function Header() {
     <header className="border-b border-line bg-paper sticky top-0 z-40">
       <div className="max-w-content mx-auto px-6 py-4 flex items-center justify-between">
         <Link href="/" className="font-display text-2xl tracking-tight text-ink">
-          Field &amp; Form
+          Glowra Lamps
         </Link>
 
         <nav className="hidden sm:flex items-center gap-8 font-body text-sm text-slate">

@@ -19,7 +19,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Field & Form",
+  title: "Glowra Lamps",
   description: "Considered goods for daily use.",
 };
 
