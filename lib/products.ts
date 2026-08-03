@@ -5,54 +5,54 @@ import { Product } from "./types";
 export const products: Product[] = [
   {
     id: "1",
-    slug: "field-jacket",
-    name: "Field Jacket",
-    category: "clothing",
-    price: 1450,
+    slug: "bomba-lamp",
+    name: "Bomba lamp",
+    category: "lamps",
+    price: 2450,
     currency: "EGP",
     description:
       "A durable cotton-blend jacket built for daily wear, with a relaxed fit and reinforced stitching at the seams.",
     image:
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&q=80",
+      "/public/image/bomba.jpg",
     inStock: true,
   },
   {
     id: "2",
-    slug: "wireless-earbuds",
-    name: "Wireless Earbuds",
-    category: "electronics",
+    slug: "cactus-lamp",
+    name: "Cactus Lamp",
+    category: "lamps",
     price: 1899,
     currency: "EGP",
     description:
       "Compact true-wireless earbuds with active noise cancellation and 30-hour total battery life.",
     image:
-      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&q=80",
+      "/public/image/cactus.jpg",
     inStock: true,
   },
   {
     id: "3",
-    slug: "canvas-tote",
-    name: "Canvas Tote",
-    category: "accessories",
+    slug: "amwag-lamp",
+    name: "Amwag Lamp",
+    category: "lamps",
     price: 420,
     currency: "EGP",
     description:
       "Heavyweight canvas tote with leather handles, sized for daily carry or light grocery runs.",
     image:
-      "https://images.unsplash.com/photo-1591561954557-26941169b49e?w=800&q=80",
+      "/public/image/amwag.jpg",
     inStock: true,
   },
   {
     id: "4",
-    slug: "mechanical-watch",
-    name: "Mechanical Watch",
-    category: "accessories",
-    price: 3200,
+    slug: "modern-lamp",
+    name: "Modern Lamp",
+    category: "lamps",
+    price: 2200,
     currency: "EGP",
     description:
       "Automatic movement, sapphire crystal, stainless steel case. No battery required.",
     image:
-      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&q=80",
+      "/public/image/modern.jpg",
     inStock: false,
   },
   {
