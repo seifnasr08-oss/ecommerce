@@ -13,7 +13,7 @@ export const products: Product[] = [
     description:
       "A durable cotton-blend jacket built for daily wear, with a relaxed fit and reinforced stitching at the seams.",
     image:
-      "/public/images/bomba.jpg",
+      "/images/bomba.jpg",
     inStock: true,
   },
   {
@@ -26,7 +26,7 @@ export const products: Product[] = [
     description:
       "Compact true-wireless earbuds with active noise cancellation and 30-hour total battery life.",
     image:
-      "/public/images/cactus.jpg",
+      "/images/cactus.jpg",
     inStock: true,
   },
   {
@@ -39,7 +39,7 @@ export const products: Product[] = [
     description:
       "Heavyweight canvas tote with leather handles, sized for daily carry or light grocery runs.",
     image:
-      "/public/images/amwag.jpg",
+      "/images/amwag.jpg",
     inStock: true,
   },
   {
@@ -52,7 +52,7 @@ export const products: Product[] = [
     description:
       "Automatic movement, sapphire crystal, stainless steel case. No battery required.",
     image:
-      "/public/images/modern.jpg",
+      "/images/modern.jpg",
     inStock: false,
   },
   {
